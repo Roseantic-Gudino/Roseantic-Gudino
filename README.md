@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I’m Roseantic, a final-year Computer Science engineering student at Cambridge Institute of Technology 💻, passionate about problem-solving and learning new technologies. I enjoy taking on real-world challenges, leveraging my analytical skills and a data-driven approach to create impactful solutions.  
+
+Outside academics, I love playing badminton 🏸, traveling ✈️, and exploring my creative side through art, craft, calligraphy, and painting 🎨. I’m also a foodie 🍕 who enjoys discovering new cuisines.  
+
+Being part of TEDxCIT has been a transformative experience for me. It has helped me step out of my comfort zone, connect with more people, and grow into a confident and socially engaged individual. TEDx has not only allowed me to contribute to impactful events but also helped me discover the power of collaboration and meaningful conversations.  
+
+I’m also an astrophile ✨, fascinated by the mysteries of the universe. I believe in building meaningful connections, staying curious, and leaving a positive impact on everything I do. 🚀
 
 <!--
 **Roseantic-Gudino/Roseantic-Gudino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
