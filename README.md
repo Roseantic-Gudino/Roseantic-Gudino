@@ -1,4 +1,6 @@
 ## Hi there 👋, I’m Roseantic
+
+<!--
 A final-year Computer Science engineering student at Cambridge Institute of Technology 💻, passionate about problem-solving and learning new technologies. I enjoy tackling real-world challenges with an analytical and data-driven approach.
 
 Outside academics, I love badminton 🏸, traveling ✈️, and exploring my creativity through art and calligraphy 🎨. I’m also a foodie 🍕 who enjoys discovering new cuisines.
