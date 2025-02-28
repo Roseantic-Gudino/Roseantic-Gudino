@@ -141,3 +141,13 @@ Here are some ideas to get you started:
 -->
 <hr>
 
+
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshata-Gunapache&layout=compact&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roseantic-Gudino&layout=compact&theme=dracula">
+</a>
+
+
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ https://github.com/Akshata-Gunapache/Akshata-Gunapache/blob/main/profile-3d-contrib/profile-night-rainbow.svg
+
