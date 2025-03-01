@@ -126,18 +126,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-
-
-
-
-<p align="center">
-
-<a href="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet"><img src="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet" alt="Profile views" /></a> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Roseantic-Gudino.Roseantic-Gudino)
-<!--
-<img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
---->
-</p>
-
 <p align="center">
 <a href="https://GitHub.com/Roseantic-Gudino/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Profile views" /></a>
 
