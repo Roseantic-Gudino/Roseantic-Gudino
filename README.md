@@ -141,7 +141,7 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-<a href="https://GitHub.com/Roseantic-Gudino/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Profile views" /></a>
+<a href="https://GitHub.com/Roseantic-Gudino/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" " /></a>
 
 </p>
 
