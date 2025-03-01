@@ -159,7 +159,7 @@ Here are some ideas to get you started:
 
 </p>
 
-
+<!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Roseantic-Gudino)](https://github.com/Roseantic-Gudino/github-readme-stats)
 
 
