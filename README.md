@@ -127,8 +127,9 @@ Here are some ideas to get you started:
 <p align="center">
 
 <a href="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet"><img src="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet" alt="Profile views" /></a>
-</p>
 
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Roseantic-Gudino.Roseantic-Gudino" />
+</p>
 
 <p align="center">
 <a href="https://GitHub.com/Roseantic-Gudino/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Profile views" /></a>
