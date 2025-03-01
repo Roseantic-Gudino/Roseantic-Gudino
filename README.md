@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 -->
 
 
+
+
+
 <div align="right">
 
 <a href="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet"><img src="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet" alt="Profile views" /></a> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Roseantic-Gudino.Roseantic-Gudino)
@@ -82,16 +85,43 @@ Here are some ideas to get you started:
 </div>
 
  <hr/>
- 
+<!--
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,html,css,vscode,django,angular,mysql,sqlite,opencv,javascript,typescript,github,git,pycharm,java,cpp,linux,windows,powershell&perline=10" />
 </div>
+-
+<br/>
+-->
 
+
+<h2 align="center">💻 Languages & Databases 💻</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,c,mysql,sqlite,html,javascript,typescript,java,cpp,css&perline=5" />
+</div>
 <br/>
 <hr/>
 
+
+<h2 align="center">🚀 Frameworks 🚀</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=django,angular&perline=4" />
+</div>
+<br/>
+<hr/>
+
+<h2 align="center">🛠 Tools & Environment 🛠</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,opencv,github,git,pycharm,linux,windows,powershell&perline=4" />
+</div>
+<br/>
+<hr/>
+
+<!---
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -99,8 +129,8 @@ Here are some ideas to get you started:
   
   <br/><br/><br/>
 </div>
+--->
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -108,13 +138,16 @@ Here are some ideas to get you started:
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Roseantic-Gudino&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Roseantic-Gudino&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Roseantic-Gudino&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Roseantic-Gudino&layout=compact&theme=dracula">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roseantic-Gudino&layout=compact&theme=midnight-purple">
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Roseantic-Gudino&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
 </a>
 </div>
 
-<br/><br/>
+<!-- <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Roseantic-Gudino&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Roseantic-Gudino&layout=compact&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roseantic-Gudino&layout=compact&theme=midnight-purple">
+
+<a href="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Roseantic-Gudino&layout=compact&theme=dracula">
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roseantic-Gudino&layout=compact&theme=midnight-purple&border_radius=10">
+-->
 
 <hr/>
 
