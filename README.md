@@ -24,11 +24,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 -->
 
 
+<div align="right">
+
+<a href="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet"><img src="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet" alt="Profile views" /></a> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Roseantic-Gudino.Roseantic-Gudino)
+<!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Roseantic-Gudino.Roseantic-Gudino" />
+--->
+</div>
+
 
 <h1 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; 
@@ -126,9 +132,10 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet"><img src="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet" alt="Profile views" /></a>
-
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Roseantic-Gudino.Roseantic-Gudino" />
+<a href="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet"><img src="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet" alt="Profile views" /></a> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Roseantic-Gudino.Roseantic-Gudino)
+<!--
+<img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
+--->
 </p>
 
 <p align="center">
