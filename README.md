@@ -154,3 +154,6 @@ Here are some ideas to get you started:
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  <!--- https://github.com/Akshata-Gunapache/Akshata-Gunapache/blob/main/profile-3d-contrib/profile-night-rainbow.svg
 --->
+
+
+  ![Snake animation](https://github.com/Roseantic-Gudino/Roseantic-Gudino/blob/output/github-contribution-grid-snake.svg)
