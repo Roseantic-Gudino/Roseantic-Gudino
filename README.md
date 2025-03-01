@@ -1,14 +1,3 @@
-<!--
-# Hi there 👋, I’m Roseantic
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Roseantic-Gudino" />
-
-A final-year Computer Science engineering student at Cambridge Institute of Technology 💻, passionate about problem-solving and learning new technologies. I enjoy tackling real-world challenges with an analytical and data-driven approach.
-
-Outside academics, I love badminton 🏸, traveling ✈️, and exploring my creativity through art and calligraphy 🎨. I’m also a foodie 🍕 who enjoys discovering new cuisines.
-
-Being part of TEDxCIT has helped me step out of my comfort zone, connect with people, and grow into a more confident individual. I’m also an astrophile ✨, fascinated by the universe and its mysteries.
-
-I believe in staying curious, building meaningful connections, and making a positive impact. 🚀
 
 <!--
 **Roseantic-Gudino/Roseantic-Gudino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -77,10 +66,7 @@ Here are some ideas to get you started:
   <a href="https://linktr.ee/roseantic">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
-<!--
-  <a href="https://Roseantic-Gudino.github.io/Google-Resume/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+
   
 </div>
 
