@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sumeet-162.Sumeet-162" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Roseantic-Gudino.Roseantic-Gudino" />
 
 <h1 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; 
@@ -124,30 +124,23 @@ Here are some ideas to get you started:
 
 
 
+<p align="center">
+
+<a href="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet"><img src="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet" alt="Profile views" /></a>
+</p>
 
 
-## Github Stats <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-stats-business-and-finance-prettycons-lineal-color-prettycons.png" align="center" height="35" width="35">
+<p align="center">
+<a href="https://GitHub.com/Roseantic-Gudino/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Profile views" /></a>
 
-<a href="https://github-readme-stats.vercel.app/api?username=Roseantic-Gudino&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Roseantic-Gudino&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width=49% />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=Roseantic-Gudino&theme=midnight-purple">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roseantic-Gudino&theme=dark" width=49%/>
-</a>
-<!--
-<a href="https://activity-graph.herokuapp.com/graph?username=Roseantic-Gudino&theme=dracula">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Roseantic-Gudino&theme=dracula" width=99%/>
-</a>
--->
-<hr>
+</p>
 
 
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshata-Gunapache&layout=compact&theme=dracula">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roseantic-Gudino&layout=compact&theme=dracula">
-</a>
+
+
 
 
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
- https://github.com/Akshata-Gunapache/Akshata-Gunapache/blob/main/profile-3d-contrib/profile-night-rainbow.svg
-
+ <!--- https://github.com/Akshata-Gunapache/Akshata-Gunapache/blob/main/profile-3d-contrib/profile-night-rainbow.svg
+--->
