@@ -148,19 +148,13 @@ Here are some ideas to get you started:
 
 </p>
 
+
 <!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Roseantic-Gudino)](https://github.com/Roseantic-Gudino/github-readme-stats)
 
-
-
-
-
-
-
-
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  <!--- https://github.com/Akshata-Gunapache/Akshata-Gunapache/blob/main/profile-3d-contrib/profile-night-rainbow.svg
---->
+
 
 
 
@@ -170,3 +164,4 @@ Here are some ideas to get you started:
 
 </div>
 
+-->
