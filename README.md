@@ -58,13 +58,13 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   <a href="mailto:roseanticgudino27@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Gmail-%23FF0000?style=for-the-badge&logo=gmail&logoColor=yellow" />
   </a>
   <a href="https://www.linkedin.com/in/roseantic-gudino-506285229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   <a href="https://linktr.ee/roseantic">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linktree-lightgreen?style=for-the-badge&logo=linktree&logoColor=black" />
   </a>
 
   
@@ -154,9 +154,19 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  <!--- https://github.com/Akshata-Gunapache/Akshata-Gunapache/blob/main/profile-3d-contrib/profile-night-rainbow.svg
 --->
 
 
+
+
+## 🌐 Connect with Me 🍬
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/technologyhell) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6ME9TDt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/technologyhell) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technologyhell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishsinghslg) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/technologyhell) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/technologyhell) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technologyhell) 
+
+</div>
 
