@@ -107,15 +107,9 @@ Here are some ideas to get you started:
 <br/>
 <hr/>
 
-<!---
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Roseantic-Gudino/Roseantic-Gudino/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
---->
+
+
+
 
 
 <h2 align="center">🌠 Github Stats 🌠</h2>
@@ -129,8 +123,15 @@ Here are some ideas to get you started:
 </div>
 
 
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
 
+<!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Roseantic-Gudino/Roseantic-Gudino/output/github-contribution-grid-snake.svg" /> -->
+  ![snake gif](https://github.com/Roseantic-Gudino/Roseantic-Gudino/blob/output/github-snake-dark.svg)
+  
 
+</div>
 
 <hr/>
 
@@ -158,5 +159,4 @@ Here are some ideas to get you started:
 --->
 
 
-![Snake animation](https://github.com/Roseantic-Gudino/Roseantic-Gudino/blob/output/github-contribution-grid-snake.svg) 
-![snake gif](https://github.com/Roseantic-Gudino/Roseantic-Gudino/blob/output/github-snake-dark.svg)
+
