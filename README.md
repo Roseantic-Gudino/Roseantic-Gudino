@@ -122,12 +122,13 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Roseantic-Gudino&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roseantic-Gudino&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats" width="390" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roseantic-Gudino&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
+-->
 
 
 <hr/>
