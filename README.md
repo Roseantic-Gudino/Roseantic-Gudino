@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <h2 align="center">🚀 Frameworks 🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=django,angular&perline=4" />
+    <img src="https://skillicons.dev/icons?i=django,angular,bootstrap&perline=4" />
 </div>
 <br/>
 <hr/>
