@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 <h2 align="center">🛠 Tools & Environment 🛠</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,opencv,github,git,pycharm,linux,windows,powershell&perline=4" />
+    <img src="https://skillicons.dev/icons?i=vscode,opencv,github,git,pycharm,linux,windows,powershell,jquery,visualstudio,vscode&perline=4" />
 </div>
 <br/>
 <hr/>
