@@ -145,7 +145,7 @@ Here are some ideas to get you started:
 <h2 align="center">🏆 My Trophies 🏆</h2>
 <br>
 <div align="center">
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roseantic-gudino&theme=darkhub&column=4&margin-w=15" alt="roseantic-gudino" /></a> 
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roseantic-gudino&theme=radical&column=4&margin-w=15" alt="roseantic-gudino" /></a> 
 
 </p>
 
