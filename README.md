@@ -178,6 +178,11 @@ Here are some ideas to get you started:
 </p>
 
 
+https://github.com/user-attachments/assets/53a33886-e4ee-45a7-ba38-210454a060c0
+
+
+
+
 <!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Roseantic-Gudino)](https://github.com/Roseantic-Gudino/github-readme-stats)
 
