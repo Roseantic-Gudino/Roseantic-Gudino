@@ -177,9 +177,9 @@ Here are some ideas to get you started:
 
 </p>
 
-
+<!--
 https://github.com/user-attachments/assets/53a33886-e4ee-45a7-ba38-210454a060c0
-
+-->
 
 
 
