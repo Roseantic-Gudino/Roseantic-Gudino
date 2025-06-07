@@ -121,6 +121,9 @@ Here are some ideas to get you started:
 </a>
 </div>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
 <!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roseantic-Gudino&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats" width="390" />
