@@ -56,6 +56,19 @@ Here are some ideas to get you started:
   📫 How to reach me: ...
  </div>
 
+ <!--
+
+<div align="center" style="font-family: 'Brush Script MT', cursive;">
+  🌱 I’m passionate about problem-solving and learning new technologies ...<br><br>
+  🤔 I enjoy tackling real-world challenges with an analytical and data-driven approach ...<br><br>
+  💬 I love badminton 🏸, traveling ✈️, and exploring my creativity through art and calligraphy 🎨.<br><br>
+  ⚡ Fun fact: The “Hello, World!” program has been a tradition since 1972 ...<br><br>
+  📫 How to reach me: ...
+</div>
+-->
+
+
+
 <div align="center"> 
   <a href="mailto:roseanticgudino27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23FF0000?style=for-the-badge&logo=gmail&logoColor=yellow" />
