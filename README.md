@@ -184,3 +184,7 @@ Here are some ideas to get you started:
 
 
 -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roseantic-Gudino&theme=react-dark&bg_color=1a1b27&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
