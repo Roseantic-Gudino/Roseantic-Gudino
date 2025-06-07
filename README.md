@@ -123,6 +123,9 @@ Here are some ideas to get you started:
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="600" alt="3D GitHub Contribution Graph" />
+
+
 
 <!--
 <div align="center">
