@@ -53,23 +53,23 @@ Here are some ideas to get you started:
 🌱 Curious by nature, techie by choice
 I love solving problems and learning new tools.
 Always up for a challenge that makes me think.
-
+  <br>
 🤔 Data-driven, detail-focused
 I enjoy real-world puzzles and analytical thinking.
 Turning insights into impact is my thing.
-
+<br>
 🎨 Creative soul
 I unwind with art, calligraphy, and design.
 Creativity keeps my mind fresh and inspired.
-
+<br>
 🏸 ✈️ Life beyond the screen
 Badminton energizes me.
 Travel broadens my view.
-
+<br>
 ⚡ Fun fact:
 “Hello, World!” has been saying hi since 1972.
 A tiny line that launched countless tech journeys.
-  
+  <br>
   📫 How to reach me: ...
  </div>
 
