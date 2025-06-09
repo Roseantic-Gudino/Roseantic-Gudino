@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Felipa&size=24&duration=1000&pause=100&color=BDC1F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=70&lines=%F0%9F%A7%A0+Curious+mind+from+Bangalore+%F0%9F%8C%86%2C+exploring+the+world+of+software+engineering+%F0%9F%92%BB%2C+;fueled+by+innovation+%F0%9F%92%A1+and+a+love+for+learning+%F0%9F%93%9A%F0%9F%94%8D" alt="Typing SVG" /></a>
 -->
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rancho&size=25&duration=1&pause=1000&color=DBCDF7&center=true&vCenter=true&multiline=true&width=800&height=45&lines=%F0%9F%A7%A0+Curious+mind+from+Bangalore+%F0%9F%8C%86+exploring+software+engineering+%F0%9F%9A%80+with+a+passion+for+learning+%F0%9F%93%9A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rancho&size=25&duration=1&pause=1000&color=DBCDF7&center=true&vCenter=true&multiline=true&width=1000&height=45&lines=%F0%9F%A7%A0+Curious+mind+from+Bangalore+%F0%9F%8C%86+exploring+software+engineering+%F0%9F%9A%80+with+a+passion+for+learning+%F0%9F%93%9A" alt="Typing SVG" /></a>
  
 </h3>
 
