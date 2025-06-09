@@ -36,17 +36,13 @@ Here are some ideas to get you started:
 </h1>
 
 
-<!-- Google Font Link -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
 
-<!-- Styled Heading -->
-<h3 align="center" style="font-family: 'Cookie', cursive; font-size: 28px;">
-  <i>
-    🧠 Curious mind from Bangalore 🌆, exploring the world of software engineering 💻, 
-    <br> fueled by innovation 💡 and a love for learning 📚🔍
-  </i>
+
+<h3 align="center" >
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Felipa&size=24&duration=1000&pause=100&color=BDC1F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=200&lines=%F0%9F%A7%A0+Curious+mind+from+Bangalore+%F0%9F%8C%86%2C+exploring+the+world+of+software+engineering+%F0%9F%92%BB%2C+;fueled+by+innovation+%F0%9F%92%A1+and+a+love+for+learning+%F0%9F%93%9A%F0%9F%94%8D" alt="Typing SVG" /></a>
+
+ 
 </h3>
 
 
