@@ -50,14 +50,25 @@ Here are some ideas to get you started:
 
 
 <div align="center">
+🌱 Curious by nature, techie by choice
+I love solving problems and learning new tools.
+Always up for a challenge that makes me think.
 
-  🌱 I’m passionate about problem-solving and learning new technologies ...
-  
-  🤔 I enjoy tackling real-world challenges with an analytical and data-driven approach ...
-  
-  💬 I love badminton 🏸, traveling ✈️, and exploring my creativity through art and calligraphy 🎨.
-  
-  ⚡ Fun fact: The “Hello, World!” program has been a tradition since 1972 ...
+🤔 Data-driven, detail-focused
+I enjoy real-world puzzles and analytical thinking.
+Turning insights into impact is my thing.
+
+🎨 Creative soul
+I unwind with art, calligraphy, and design.
+Creativity keeps my mind fresh and inspired.
+
+🏸 ✈️ Life beyond the screen
+Badminton energizes me.
+Travel broadens my view.
+
+⚡ Fun fact:
+“Hello, World!” has been saying hi since 1972.
+A tiny line that launched countless tech journeys.
   
   📫 How to reach me: ...
  </div>
