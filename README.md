@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rancho&size=25&duration=1&pause=1000&color=DBCDF7&center=true&vCenter=true&multiline=true&width=900&height=45&lines=%F0%9F%A7%A0+Curious+mind+from+Bangalore+%F0%9F%8C%86+exploring+software+engineering+%F0%9F%9A%80+with+a+passion+for+learning+%F0%9F%93%9A" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rancho&size=25&duration=1&pause=1000&color=DBCDF7&center=true&vCenter=true&multiline=true&width=900&height=45&lines=%F0%9F%A7%A0Curious+mind+from+Bangalore%E2%9C%88%EF%B8%8Fexploring+software+engineering%F0%9F%9A%80with+a+passion+for+learning%F0%9F%93%9A"
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rancho&size=25&duration=1&pause=1000&color=DBCDF7&center=true&vCenter=true&multiline=true&width=1000&height=45&lines=%F0%9F%A7%A0Curious+mind+from+Bangalore%E2%9C%88%EF%B8%8Fexploring+software+engineering%F0%9F%9A%80with+a+passion+for+learning%F0%9F%93%9A"
  alt="Typing SVG" /></a>
  
 </h3>
