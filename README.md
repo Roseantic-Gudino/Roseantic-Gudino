@@ -35,12 +35,18 @@ Here are some ideas to get you started:
 
 </h1>
 
-<h3 align="center" style="font-family: Georgia, serif;">
-<i>
-🧠 Curious mind from Bangalore 🌆, exploring the world of software engineering 💻, 
-  <br> fueled by innovation 💡 and a love for learning 📚🔍
 
-</i>
+<!-- Google Font Link -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
+
+<!-- Styled Heading -->
+<h3 align="center" style="font-family: 'Cookie', cursive; font-size: 28px;">
+  <i>
+    🧠 Curious mind from Bangalore 🌆, exploring the world of software engineering 💻, 
+    <br> fueled by innovation 💡 and a love for learning 📚🔍
+  </i>
 </h3>
 
 
