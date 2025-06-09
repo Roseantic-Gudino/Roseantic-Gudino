@@ -36,9 +36,11 @@ Here are some ideas to get you started:
 </h1>
 
 <h3 align="center" style="font-family: Georgia, serif;">
-🧠 Curious mind from Bangalore 🌆, exploring the world of software engineering 💻, fueled by innovation 💡 and a love for learning 📚🔍
+🧠 Curious mind from Bangalore 🌆, exploring the world of software engineering 💻, 
+  fueled by innovation 💡 and a love for learning 📚🔍
 
-🧠 Curious mind from Bangalore 🌆 exploring software engineering 💻, driven by innovation 💡 and a love for learning 📚🔍</h3>
+
+</h3>
 
 
 
