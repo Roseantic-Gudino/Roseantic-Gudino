@@ -180,7 +180,7 @@ A tiny line that launched countless tech journeys.
 -->
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Roseantic-Gudino&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats" width="390" />
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Roseantic-Gudino&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10&include_all_commits=true" alt="readme stats"  width="370"  /> </br>
-  <img width="300" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Roseantic-Gudino&langs_count=10&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" height="190" /> 
+  <img width="300" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Roseantic-Gudino&langs_count=10&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" /> 
   
 </a>
 </div>
