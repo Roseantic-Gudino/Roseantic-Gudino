@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 </h1>
 
-<h3 align="center" style="font-family: Georgia, serif;">An aspiring software engineer from Bangalore, passionate about tech, innovation & continuous learning 📚🖋</h3>
+<h3 align="center" style="font-family: Georgia, serif;">💻 A driven software engineering enthusiast from Bangalore 🌆, passionate about technology ⚙️, innovation 💡, and lifelong learning 📚🧠✨</h3>
 
 
 <br/>
