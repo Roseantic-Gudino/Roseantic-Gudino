@@ -53,27 +53,28 @@ Here are some ideas to get you started:
 🌱 Curious by nature, techie by choice <br>
 I love solving problems and learning new tools.
 Always up for a challenge that makes me think.
-  <br>
-🤔 Data-driven, detail-focused <br>
+<br><br>
+  🤔 Data-driven, detail-focused <br>
 I enjoy real-world puzzles and analytical thinking.
 Turning insights into impact is my thing.
-<br>
-🎨 Creative soul <br>
+<br><br>
+  🎨 Creative soul <br>
 I unwind with art, calligraphy, and design.
 Creativity keeps my mind fresh and inspired.
-<br>
-🏸 ✈️ Life beyond the screen <br>
+<br><br>
+  🏸 ✈️ Life beyond the screen <br>
 Badminton energizes me.
 Travel broadens my view.
-<br>
-⚡ Fun fact: <br>
+<br><br>
+  ⚡ Fun fact: <br>
 “Hello, World!” has been saying hi since 1972.
 A tiny line that launched countless tech journeys.
-  <br>
+<br><br>
   📫 How to reach me: ...
  </div>
 
-<div></div>
+<!--
+<div>
   🌱 I’m passionate about problem-solving and learning new technologies ...
   
   🤔 I enjoy tackling real-world challenges with an analytical and data-driven approach ...
@@ -84,7 +85,7 @@ A tiny line that launched countless tech journeys.
   
   📫 How to reach me: ...
 </div>
- <!--
+ 
 
 <div align="center" style="font-family: 'Brush Script MT', cursive;">
   🌱 I’m passionate about problem-solving and learning new technologies ...<br><br>
