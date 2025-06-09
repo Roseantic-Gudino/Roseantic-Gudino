@@ -73,6 +73,17 @@ A tiny line that launched countless tech journeys.
   📫 How to reach me: ...
  </div>
 
+<div></div>
+  🌱 I’m passionate about problem-solving and learning new technologies ...
+  
+  🤔 I enjoy tackling real-world challenges with an analytical and data-driven approach ...
+  
+  💬 I love badminton 🏸, traveling ✈️, and exploring my creativity through art and calligraphy 🎨.
+  
+  ⚡ Fun fact: The “Hello, World!” program has been a tradition since 1972 ...
+  
+  📫 How to reach me: ...
+</div>
  <!--
 
 <div align="center" style="font-family: 'Brush Script MT', cursive;">
