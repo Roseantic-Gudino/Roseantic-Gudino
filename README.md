@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 </h1>
 
 <h3 align="center" style="font-family: Georgia, serif;">
+<i>
 🧠 Curious mind from Bangalore 🌆, exploring the world of software engineering 💻, 
   <br> fueled by innovation 💡 and a love for learning 📚🔍
 
-
+</i>
 </h3>
 
 
