@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 <h1 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Merienda&size=25&duration=750&pause=1000&color=8D53F7&center=true&vCenter=true&multiline=true&width=700&lines=I%E2%80%99m+Roseantic%2C+and+I%E2%80%99m+glad+you%E2%80%99re+here%F0%9F%8C%B9" alt="Typing SVG" /></a>  &nbsp; 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Merienda&size=25&duration=750&pause=1000&color=8D53F7&center=true&vCenter=true&multiline=true&width=600&lines=I%E2%80%99m+Roseantic%2C+and+I%E2%80%99m+glad+you%E2%80%99re+here%F0%9F%8C%B9" alt="Typing SVG" /></a>  &nbsp; 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 </h1>
 
