@@ -26,29 +26,30 @@ Here are some ideas to get you started:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Roseantic-Gudino.Roseantic-Gudino" />
 --->
 </div>
-
-
 <h1 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&pause=1000&color=8D53F7&center=true&width=500&height=35&lines=Hey+there!!%E2%9C%A8+I'm+Roseantic!!%F0%9F%8C%B9" alt="Typing SVG" /></a> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Merienda&size=25&duration=750&pause=1000&color=8D53F7&center=true&vCenter=true&multiline=true&width=700&lines=I%E2%80%99m+Roseantic%2C+and+I%E2%80%99m+glad+you%E2%80%99re+here%F0%9F%8C%B9" alt="Typing SVG" /></a>  &nbsp; 
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 </h1>
-
-
-
 
 <h3 align="center" >
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Felipa&size=24&duration=1000&pause=100&color=BDC1F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=200&lines=%F0%9F%A7%A0+Curious+mind+from+Bangalore+%F0%9F%8C%86%2C+exploring+the+world+of+software+engineering+%F0%9F%92%BB%2C+;fueled+by+innovation+%F0%9F%92%A1+and+a+love+for+learning+%F0%9F%93%9A%F0%9F%94%8D" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Felipa&size=24&duration=1000&pause=100&color=BDC1F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=70&lines=%F0%9F%A7%A0+Curious+mind+from+Bangalore+%F0%9F%8C%86%2C+exploring+the+world+of+software+engineering+%F0%9F%92%BB%2C+;fueled+by+innovation+%F0%9F%92%A1+and+a+love+for+learning+%F0%9F%93%9A%F0%9F%94%8D" alt="Typing SVG" /></a>
  
 </h3>
 
 
+<div align="center">
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Caslon+Display&size=22&duration=1&pause=100&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=150&lines=%F0%9F%8C%B1+I%E2%80%99m+passionate+about+problem-solving+and+learning+new+technologies+...;%F0%9F%A4%94+I+enjoy+tackling+real-world+challenges+with+an+analytical+and+data-driven+approach+...;%F0%9F%92%AC+I+love+badminton+%F0%9F%8F%B8%2C+traveling+%E2%9C%88%EF%B8%8F%2C+and+exploring+my+creativity+through+art+and+calligraphy+%F0%9F%8E%A8...;%E2%9A%A1+Fun+fact%3A+%E2%80%9CHello%2C+World!%E2%80%9D+has+been+saying+hi+since+1972...;%F0%9F%93%AB+How+to+reach+me%3A+..." alt="Typing SVG" /></a>
 
-<br/>
 
+</a>
+  
+</div>
+
+
+<!--
 
 <div align="center" style="font-family: 'Brush Script MT', cursive;">
   🌱 I’m passionate about problem-solving and learning new technologies ...<br><br>
@@ -57,7 +58,8 @@ Here are some ideas to get you started:
   ⚡ Fun fact: The “Hello, World!” program has been a tradition since 1972 ...<br><br>
   📫 How to reach me: ...
 </div>
-<!--
+
+
 <div align="center">
 🌱 Curious by nature, techie by choice <br>
 I love solving problems and learning new tools.
