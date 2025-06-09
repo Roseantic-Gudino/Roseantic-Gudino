@@ -50,23 +50,23 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-🌱 Curious by nature, techie by choice
+🌱 Curious by nature, techie by choice <br>
 I love solving problems and learning new tools.
 Always up for a challenge that makes me think.
   <br>
-🤔 Data-driven, detail-focused
+🤔 Data-driven, detail-focused <br>
 I enjoy real-world puzzles and analytical thinking.
 Turning insights into impact is my thing.
 <br>
-🎨 Creative soul
+🎨 Creative soul <br>
 I unwind with art, calligraphy, and design.
 Creativity keeps my mind fresh and inspired.
 <br>
-🏸 ✈️ Life beyond the screen
+🏸 ✈️ Life beyond the screen <br>
 Badminton energizes me.
 Travel broadens my view.
 <br>
-⚡ Fun fact:
+⚡ Fun fact: <br>
 “Hello, World!” has been saying hi since 1972.
 A tiny line that launched countless tech journeys.
   <br>
