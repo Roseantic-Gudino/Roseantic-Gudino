@@ -189,10 +189,9 @@ A tiny line that launched countless tech journeys.
 
 
 <!-- <h2 align="center">🌠 Github Stats 🌠</h2>   -->
-<br>
+
 <div align="center">
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="600" align="center" alt="3D GitHub Contribution Graph" />
-
 </div>
 
 <!--
