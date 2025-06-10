@@ -212,11 +212,11 @@ A tiny line that launched countless tech journeys.
 <div align="center">
   
   <h2>🐍 GitSnake Chronicles 🐍</h2>
-A visual tale of my daily coding adventures, told by a snake.
 
-<!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Roseantic-Gudino/Roseantic-Gudino/output/github-contribution-grid-snake.svg" /> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=23&duration=1&pause=1000&color=1CFF2B&center=true&vCenter=true&width=440&height=32&lines=A+visual+tale+of+my+daily+coding+adventures%2C+told+by+a+snake..." alt="Typing SVG" /></a>
   ![snake gif](https://github.com/Roseantic-Gudino/Roseantic-Gudino/blob/output/github-snake-dark.svg)
   
+<!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Roseantic-Gudino/Roseantic-Gudino/output/github-contribution-grid-snake.svg" /> -->
 
 </div>
 
