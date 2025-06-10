@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 <div align="right">
 
-<a href="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet"><img src="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet" alt="Profile views" /></a> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Roseantic-Gudino.Roseantic-Gudino)
+<a href="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet"><img src="https://komarev.com/ghpvc/?username=Roseantic-Gudino&color=blueviolet" alt="Profile views" /></a> 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Roseantic-Gudino.Roseantic-Gudino)
+<!-- 
+![](https://komarev.com/ghpvc/?username=Roseantic-Gudino&style=flat&abbreviated=true&base=1000&color&color=blueviolet) 
+-->
 <!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Roseantic-Gudino.Roseantic-Gudino" />
 --->
