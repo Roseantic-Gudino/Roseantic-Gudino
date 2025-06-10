@@ -200,12 +200,19 @@ A tiny line that launched countless tech journeys.
   <img src="https://github-readme-stats.vercel.app/api?username=Roseantic-Gudino&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10&include_all_commits=true" alt="readme stats"  width="390" /> </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roseantic-Gudino&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" width="390" /> </br>
 </div>
+
+
+<h2>🐍 My Contributions 🐍</h2>
+
+
 -->
 
 
 <hr/>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  
+  <h2>🐍 GitSnake Chronicles 🐍</h2>
+A visual tale of my daily coding adventures, told by a snake.
 
 <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Roseantic-Gudino/Roseantic-Gudino/output/github-contribution-grid-snake.svg" /> -->
   ![snake gif](https://github.com/Roseantic-Gudino/Roseantic-Gudino/blob/output/github-snake-dark.svg)
