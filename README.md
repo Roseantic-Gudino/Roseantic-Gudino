@@ -150,7 +150,7 @@ A tiny line that launched countless tech journeys.
 <hr/>
 
 
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ribeye+Marrow&size=24&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&height=40&lines=%F0%9F%9A%80+Frameworks+%F0%9F%9A%80" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ribeye+Marrow&size=26&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&height=40&lines=%F0%9F%9A%80+Frameworks+%F0%9F%9A%80" alt="Typing SVG" /></a></h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=django,angular,bootstrap&perline=4" />
@@ -158,7 +158,7 @@ A tiny line that launched countless tech journeys.
 <br/>
 <hr/>
 
-<h2 align="center">🛠 Tools & Environment 🛠</h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ribeye+Marrow&size=26&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&height=40&lines=%F0%9F%9B%A0+Tools+%26+Environment+%F0%9F%9B%A0" alt="Typing SVG" /></a></h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,opencv,github,git,pycharm,visualstudio,linux,windows,powershell,jquery&perline=5" />
