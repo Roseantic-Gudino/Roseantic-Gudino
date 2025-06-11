@@ -212,7 +212,7 @@ A tiny line that launched countless tech journeys.
 <hr/>
 <div align="center">
   
-  <h2>🐍 GitSnake Chronicles 🐍</h2>
+  <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ribeye+Marrow&size=26&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&height=40&lines=%F0%9F%90%8D+Git+Snake+Chronicles+%F0%9F%90%8D" alt="Typing SVG" /></a></h2>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=23&duration=1&pause=1000&color=1CFF2B&center=true&vCenter=true&width=440&height=32&lines=A+visual+tale+of+my+daily+coding+adventures%2C+told+by+a+snake..." alt="Typing SVG" /></a>
   ![snake gif](https://github.com/Roseantic-Gudino/Roseantic-Gudino/blob/output/github-snake-dark.svg)
