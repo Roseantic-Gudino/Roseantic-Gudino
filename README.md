@@ -150,7 +150,7 @@ A tiny line that launched countless tech journeys.
 <hr/>
 
 
-<h2 align="center">🚀 Frameworks 🚀</h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ribeye+Marrow&size=24&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&height=40&lines=%F0%9F%9A%80+Frameworks+%F0%9F%9A%80" alt="Typing SVG" /></a></h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=django,angular,bootstrap&perline=4" />
