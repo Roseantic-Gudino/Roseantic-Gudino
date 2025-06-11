@@ -169,7 +169,7 @@ A tiny line that launched countless tech journeys.
 
 
 
-<h2 align="center">🌠 Github Stats 🌠 </h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ribeye+Marrow&size=26&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&height=40&lines=%F0%9F%8C%A0+Github+Stats+%F0%9F%8C%A0" alt="Typing SVG" /></a></h2>
 <br> 
 <div align="center">
 <!--  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Roseantic-Gudino&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"/>
