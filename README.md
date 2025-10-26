@@ -313,10 +313,10 @@ https://github.com/user-attachments/assets/53a33886-e4ee-45a7-ba38-210454a060c0
 
 <div align="center">
 
-[![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/Roseantic-Gudino/github-profile-trophy/stargazers)
-[![forks](https://img.shields.io/github/forks/ryo-ma/github-profile-trophy)](https://github.com/Roseantic-Gudino/github-profile-trophy/network/members)
-[![issues](https://img.shields.io/github/issues/ryo-ma/github-profile-trophy)](https://github.com/Roseantic-Gudino/github-profile-trophy/issues)
-[![license](https://img.shields.io/github/license/ryo-ma/github-profile-trophy)](https://github.com/Roseantic-Gudino/github-profile-trophy/blob/master/LICENSE)
+[![stargazers](https://img.shields.io/github/stars/Roseantic-Gudino/github-profile-trophy)](https://github.com/Roseantic-Gudino/github-profile-trophy/stargazers)
+[![forks](https://img.shields.io/github/forks/Roseantic-Gudino/github-profile-trophy)](https://github.com/Roseantic-Gudino/github-profile-trophy/network/members)
+[![issues](https://img.shields.io/github/issues/Roseantic-Gudino/github-profile-trophy)](https://github.com/Roseantic-Gudino/github-profile-trophy/issues)
+[![license](https://img.shields.io/github/license/Roseantic-Gudino/github-profile-trophy)](https://github.com/Roseantic-Gudino/github-profile-trophy/blob/master/LICENSE)
 [![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRoseantic-Gudino%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2FRoseantic-Gudino%2Fgithub-profile-trophy)
 
 </div>
