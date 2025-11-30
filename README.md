@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 <!--
 **Roseantic-Gudino/Roseantic-Gudino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -128,7 +122,7 @@ A tiny line that launched countless tech journeys.
   </a>
   <a href="https://www.linkedin.com/in/roseantic-gudino-506285229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
+    </a>
   <a href="https://linktr.ee/roseantic">
     <img src="https://img.shields.io/badge/Linktree-lightgreen?style=for-the-badge&logo=linktree&logoColor=black" />
   </a>
