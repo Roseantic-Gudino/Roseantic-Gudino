@@ -256,8 +256,8 @@ A tiny line that launched countless tech journeys.
 <img alt="Static Badge" src="https://img.shields.io/badge/Made%20with%20?style=flat-square">
 Built with 💻 + ❤️ by Roseantic
 --->
-<a href="https://GitHub.com/Roseantic-Gudino/"><img src="https://img.shields.io/badge/Built%20with%20%F0%9F%92%BB%2B%E2%9D%A4%EF%B8%8F%20by-Roseantic%20Gudino%20-plum?style=for-the-badge"  /></a>
-
+<a href="https://GitHub.com/Roseantic-Gudino/"><img src="https://img.shields.io/badge/Built%20with%20%F0%9F%92%BB%2B%E2%9D%A4%EF%B8%8F%20by-Roseantic%20Gudino%20-plum?style=for-the-badge"  />
+</a>
 </p>
 
 <!--
