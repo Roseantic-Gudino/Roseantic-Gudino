@@ -256,16 +256,16 @@ A tiny line that launched countless tech journeys.
 </div>
 
 <br/>
-<!--
+
 <p align="center">
 <!--- <a href="https://GitHub.com/Roseantic-Gudino/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" " /></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/Made%20with%20?style=flat-square">
 Built with 💻 + ❤️ by Roseantic
 --->
-<a href="https://GitHub.com/Roseantic-Gudino/"><img src="https://img.shields.io/badge/Built%20with%20%F0%9F%92%BB%2B%E2%9D%A4%EF%B8%8F%20by-Roseantic%20Gudino%20-blueviolet?style=for-the-badge"  /></a>
+<a href="https://GitHub.com/Roseantic-Gudino/"><img src="https://img.shields.io/badge/Built%20with%20%F0%9F%92%BB%2B%E2%9D%A4%EF%B8%8F%20by-Roseantic%20Gudino%20-LavenderBlush?style=for-the-badge"  /></a>
 
 </p>
---->
+
 <!--
 https://github.com/user-attachments/assets/53a33886-e4ee-45a7-ba38-210454a060c0
 -->
@@ -327,13 +327,3 @@ https://github.com/user-attachments/assets/53a33886-e4ee-45a7-ba38-210454a060c0
 [![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRoseantic-Gudino%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2FRoseantic-Gudino%2Fgithub-profile-trophy)
 
 </div>
-<br>
-<p align="center">
-<!--- <a href="https://GitHub.com/Roseantic-Gudino/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" " /></a>
-<img alt="Static Badge" src="https://img.shields.io/badge/Made%20with%20?style=flat-square">
-Built with 💻 + ❤️ by Roseantic
---->
-  
-<a href="https://GitHub.com/Roseantic-Gudino/"><img src="https://img.shields.io/badge/Built%20with%20%F0%9F%92%BB%2B%E2%9D%A4%EF%B8%8F%20by-Roseantic%20Gudino%20-blueviolet?style=for-the-badge"  /></a>
-
-</p>
