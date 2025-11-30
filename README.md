@@ -310,7 +310,7 @@ https://github.com/user-attachments/assets/53a33886-e4ee-45a7-ba38-210454a060c0
 
 
 
-
+<!---
 
 <div align="center">
 
@@ -321,3 +321,5 @@ https://github.com/user-attachments/assets/53a33886-e4ee-45a7-ba38-210454a060c0
 [![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRoseantic-Gudino%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2FRoseantic-Gudino%2Fgithub-profile-trophy)
 
 </div>
+
+--->
