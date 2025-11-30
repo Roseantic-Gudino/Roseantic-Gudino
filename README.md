@@ -258,8 +258,11 @@ A tiny line that launched countless tech journeys.
 <br/>
 
 <p align="center">
-<a href="https://GitHub.com/Roseantic-Gudino/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" " /></a>
+<!--- <a href="https://GitHub.com/Roseantic-Gudino/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" " /></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/Made%20with%20?style=flat-square">
+--->
+  
+<a href="https://GitHub.com/Roseantic-Gudino/"><img src="https://img.shields.io/badge/Built%20with%20%E2%9D%A4%EF%B8%8F%20by-Roseantic%20Gudino%20-blueviolet?style=social"  /></a>
 
 </p>
 
