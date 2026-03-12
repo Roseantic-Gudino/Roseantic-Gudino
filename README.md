@@ -344,7 +344,7 @@ https://github.com/user-attachments/assets/53a33886-e4ee-45a7-ba38-210454a060c0
   
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=Roseantic-Gudino&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+    <img src="https://github-trophies.vercel.app/?username=Roseantic-Gudino&theme=discord&no-frame=true&no-bg=true&column=5&margin-w=10" alt="GitHub Trophies" width="100%"/>
   </a>
   
 </div>
