@@ -360,14 +360,14 @@ https://github.com/user-attachments/assets/53a33886-e4ee-45a7-ba38-210454a060c0
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
+<!--
 <img src="./assets/section-game.svg" width="280"/>
 
 <br/><br/>
 
 <div align="center">
   
-  <!-- Pac-Man Contribution Graph -->
+  <!-- Pac-Man Contribution Graph --
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg"/>
@@ -387,3 +387,4 @@ https://github.com/user-attachments/assets/53a33886-e4ee-45a7-ba38-210454a060c0
 <br/>
 
 
+--->
