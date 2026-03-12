@@ -238,6 +238,19 @@ A tiny line that launched countless tech journeys.
 
 
 
+<br/>
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=Roseantic-Gudino&theme=discord&no-frame=true&no-bg=true&column=&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  </a>
+  
+</div>
+
+<br/>
+
 </p>
 
 
@@ -332,25 +345,4 @@ https://github.com/user-attachments/assets/53a33886-e4ee-45a7-ba38-210454a060c0
 
 
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-trophy.svg" width="200"/>
-
-<br/><br/>
-
-<div align="center">
-  
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=Roseantic-Gudino&theme=discord&no-frame=true&no-bg=true&column=5&margin-w=10" alt="GitHub Trophies" width="100%"/>
-  </a>
-  
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
