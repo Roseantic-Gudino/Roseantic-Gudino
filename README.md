@@ -300,7 +300,7 @@ https://github.com/user-attachments/assets/53a33886-e4ee-45a7-ba38-210454a060c0
   <br/><br/>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,16,18,20&section=footer&reversal=true"/>
 </div>
 
 
