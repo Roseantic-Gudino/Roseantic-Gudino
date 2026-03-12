@@ -327,3 +327,30 @@ https://github.com/user-attachments/assets/53a33886-e4ee-45a7-ba38-210454a060c0
 </div>
 
 --->
+
+
+
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-trophy.svg" width="200"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=red1-for-hek&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  </a>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
