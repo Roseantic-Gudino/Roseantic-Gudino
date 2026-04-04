@@ -146,7 +146,7 @@ A tiny line that launched countless tech journeys.
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,mysql,sqlite,html,javascript,typescript,java,cpp,css,cs,mssql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,c,mysql,sqlite,html,javascript,java,cpp,cs,css,mssql,typescript&perline=6" />
 </div>
 <br/>
 <hr/>
@@ -155,7 +155,7 @@ A tiny line that launched countless tech journeys.
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ribeye+Marrow&size=26&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&height=40&lines=%F0%9F%9A%80+Frameworks+%F0%9F%9A%80" alt="Typing SVG" /></a></h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=django,angular,bootstrap,dotnet,opencv,hibernate&perline=4" />
+    <img src="https://skillicons.dev/icons?i=django,angular,bootstrap,dotnet,opencv,hibernate&perline=6" />
 </div>
 <br/>
 <hr/>
@@ -163,7 +163,7 @@ A tiny line that launched countless tech journeys.
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ribeye+Marrow&size=26&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&height=40&lines=%F0%9F%9B%A0+Tools+%26+Environment+%F0%9F%9B%A0" alt="Typing SVG" /></a></h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,pycharm,visualstudio,linux,windows,powershell,jquery&perline=5" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,pycharm,linux,windows,powershell,jquery&perline=5" />
 </div>
 <br/>
 <hr/>
